@@ -1,6 +1,6 @@
 module ws-chat
 
-go 1.20
+go 1.22
 
 require github.com/gobwas/ws v1.3.0
 
